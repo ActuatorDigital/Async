@@ -1,0 +1,14 @@
+{
+  "name": "com.air.async",
+  "displayName": "AIR Async",
+  "version": "0.0.1",
+  "description": "AIR's solution for handing operations with late completion.",
+  "type": "library",
+  "repository": {
+    "url": "https://github.com/AnImaginedReality/Async"
+  },
+  "author": {
+    "name": "An Imagined Reality",
+    "url": "https://animaginedreality.com/"
+  }
+}
